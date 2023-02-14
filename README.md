@@ -1,5 +1,9 @@
-# 69 Night's at Slanina's:
+# ~ 69 Night's at Slanina's:
 ![69 Night's at Slanina's](newspaper.png)
+
+# About This Game:
+This game was made with : [ClickTeam Fusion 2.5]([https://pt-br.reactjs.org/](https://www.clickteam.com/clickteam-fusion-2-5))
+Latest version available: [1.00 [BETA]]([https://github.com/0xfffd0000/sNaS/releases/tag/snas])
 
 ## Welcome to your new summer job at Slanina's Fazbear's Pizza,
 
