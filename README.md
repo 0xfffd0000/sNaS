@@ -1,1 +1,3 @@
-# 69Night-s-at-Slanina-s
+# 69 Night's at Slanina's
+
+Current Version : 1.00
