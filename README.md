@@ -1,6 +1,5 @@
 # 69 Night's at Slanina's
 
- ABOUT THIS GAME:
 
 # Welcome to your new summer job at Slanina's Fazbear's Pizza, 
 where kids and parents alike come for entertainment and food as far as the eye can see! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds! The robots' behavior has become somewhat unpredictable at night however, and it was much cheaper to hire you as a security guard than to find a repairman.
