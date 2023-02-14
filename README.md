@@ -2,7 +2,7 @@
 ![69 Night's at Slanina's](newspaper.png)
 
 # About This Game:
-This game was made with : [ReactJS](https://pt-br.reactjs.org/) and [Blender](https://www.blender.org/download/))
+This game was made with : [ReactJS](https://pt-br.reactjs.org/) and [Blender](https://www.blender.org/download/)
 Latest version available: [1.00 [BETA]]([https://github.com/0xfffd0000/sNaS/releases/tag/snas])
 
 ## Welcome to your new summer job at Slanina's Fazbear's Pizza,
