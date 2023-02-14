@@ -1,9 +1,13 @@
 # ~ 69 Night's at Slanina's:
 ![69 Night's at Slanina's](newspaper.png)
 
+# WARNING!
+## This game is a **FanGame** from the [Fnaf 1](https://www.clickteam.com/clickteam-fusion-2-5](https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/)
+
+
+
 # About This Game:
-This game was made with : [ReactJS](https://pt-br.reactjs.org/) and [Blender](https://www.blender.org/download/)
-Latest version available: [1.00 [BETA]]([https://github.com/0xfffd0000/sNaS/releases/tag/snas])
+This game was made with : [Clickteam Fusion 2.5](https://www.clickteam.com/clickteam-fusion-2-5) and [Blender](https://www.blender.org/download/)<br />Latest version available: [1.00 BETA](https://github.com/0xfffd0000/sNaS/releases/tag/snas)
 
 ## Welcome to your new summer job at Slanina's Fazbear's Pizza,
 
@@ -20,12 +24,12 @@ You have a very limited amount of electricity that you're allowed to use per nig
 
 ## Requirements:
 
-OS: XP,Vista,Windows7
-Processor: 2 GHz Intel Pentium 4 or AMD Athlon or equivalent
-Memory: 1 GB RAM
-Graphics: 1 GB
-DirectX: Version 9.0
-Storage: 250 MB available space
+OS: XP,Vista,Windows7<br />
+Processor: 2 GHz Intel Pentium 4 or AMD Athlon or equivalent<br />
+Memory: 1 GB RAM<br />
+Graphics: 1 GB<br />
+DirectX: Version 9.0<br />
+Storage: 250 MB available space<br />
 
 
 ©2023 0xfffd0000
