@@ -1,12 +1,13 @@
-# 69 Night's at Slanina's
+# 69 Night's at Slanina's:
+![69 Night's at Slanina's](newspaper.png)
 
 ## Welcome to your new summer job at Slanina's Fazbear's Pizza,
-![69 Night's at Slanina's](newspaper.png)
 
 where kids and parents alike come for entertainment and food as far as the eye can see! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds! The robots' behavior has become somewhat unpredictable at night however, and it was much cheaper to hire you as a security guard than to find a repairman.
 
 
 ## From your small office you must watch the security cameras carefully.
+
 You have a very limited amount of electricity that you're allowed to use per night (corporate budget cuts, you know). That means when you run out of power for the night- no more security doors and no more lights! If something isn't right- namely if Freddybear or his friends aren't in their proper places, you must find them on the monitors and protect yourself if needed!
 
 ## Can you survive 69 Night's at Slaniina's?
