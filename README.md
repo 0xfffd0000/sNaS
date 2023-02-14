@@ -1,4 +1,4 @@
-# ~ 69 Night's at Slanina's:
+# ~ 69 Night's at Slanina's :
 ![69 Night's at Slanina's](newspaper.png)
 
 # WARNING!
@@ -24,7 +24,7 @@ You have a very limited amount of electricity that you're allowed to use per nig
 
 "For all the simplicity of the game’s controls and premise, 69 Night's at Slaniina's is frightening. It’s a fantastic example of how cleverness in design and subtlety can be used to make an experience terrifying. Simple still images and proper character design steal the show in this game, and show that Scott Cawthon knows quite a lot about the secret fears people feel when looking at creepy dolls and toys. It’s elegant in how it sows fear, and is a must-own for anyone who likes scary games." **-Joel Couture** IndieGameMag.com
 
-## Requirements:
+## Requirements :
 
 OS: XP,Vista,Windows7<br />
 Processor: 2 GHz Intel Pentium 4 or AMD Athlon or equivalent<br />
